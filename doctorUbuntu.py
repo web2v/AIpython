@@ -7,7 +7,7 @@ from prompt_toolkit import PromptSession
 from prompt_toolkit.history import InMemoryHistory
 from prompt_toolkit.auto_suggest import AutoSuggestFromHistory
 
-openai.api_key = "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"
+openai.api_key = "ta clef api de open ai "
 
 def chat_gpt(prompt):
     response = openai.Completion.create(
