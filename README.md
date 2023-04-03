@@ -9,3 +9,5 @@ la commande est alors sauvgardée dans le fichier Doctor-Prescriptions
 DoctorUbuntu s execute dans la console. 
 
 la v2 plus evoluée arrive ! 
+
+la video de demo : https://youtu.be/3A_L2DGuohg
