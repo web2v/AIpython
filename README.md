@@ -1,5 +1,4 @@
-# AIpython
-DoctorUbuntu V1 
+# DoctorUbuntu V1 
 
 
 retrouvez GPT directement dans la console avec un prompt étudié pour généré les commande bash dans la console 
